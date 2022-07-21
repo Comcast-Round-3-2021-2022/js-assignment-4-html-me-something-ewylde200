@@ -1,1 +1,48 @@
-/* Write your CSS here! */
+
+#mainHeading {
+    color: red;
+    text-align: center;
+	font-size: 38px;
+}
+
+#secondHeader {
+    background-color: rgb(18, 18, 99);
+    color: #425a8f;
+}
+
+.funParagraph {
+    color: green;
+  }
+
+body {
+	background-color: #489ca1dc;
+    margin: 8px;
+  }
+  
+  h2 {
+	text-align: left;
+	text-align: center;
+	padding: .5em 0 1em 1em;
+  }
+  p {
+	text-align: left;
+	font-size: 18px;
+	padding: .2em 0 1em 1em;
+  }
+
+  ul {
+	text-align: center;
+  }
+  img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 25%;
+	width: auto;
+  }
+
+  footer {
+	text-align: center;
+	color: #425a8f;
+	margin-top: 1em;
+  }
