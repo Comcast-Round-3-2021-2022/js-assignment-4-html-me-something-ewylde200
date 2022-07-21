@@ -1,16 +1,17 @@
 
 #mainHeading {
-    color: #425a8f;
+    color: red;
     text-align: center;
 	font-size: 38px;
 }
 
-#secondheader {
+#secondHeader {
     background-color: rgb(18, 18, 99);
+    color: #425a8f;
 }
 
-.navy {
-    color: #425a8f;
+.funParagraph {
+    color: green;
   }
 
 body {
@@ -19,20 +20,18 @@ body {
   }
   
   h2 {
-	color: #425a8f;
 	text-align: left;
-	font-size: 32;
 	text-align: center;
-	padding: .5em 0 1em 1em
+	padding: .5em 0 1em 1em;
   }
   p {
 	text-align: left;
-	font-size: 18px;;
+	font-size: 18px;
 	padding: .2em 0 1em 1em;
   }
 
   ul {
-	text-align: center
+	text-align: center;
   }
   img {
 	display: block;
@@ -45,5 +44,5 @@ body {
   footer {
 	text-align: center;
 	color: #425a8f;
-	margin-top: 1em
+	margin-top: 1em;
   }
